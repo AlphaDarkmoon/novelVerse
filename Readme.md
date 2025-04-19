@@ -98,8 +98,8 @@ A full-stack web application for reading and managing novels, designed with a sm
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/novel-platform.git
-   cd novel-platform
+   git clone git@github.com:AlphaDarkmoon/novelVerse.git
+   cd NovelNest
    ```
 
 2. **Install dependencies**
